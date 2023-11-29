@@ -15,6 +15,7 @@
 ### Contato:
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://portfolio-okn6.vercel.app/)
 [![Games](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://nathan-12.itch.io)
+[![Blog](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/nathannsilva12)
 
 ### Experiência em design com:
 
