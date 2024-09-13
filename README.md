@@ -16,16 +16,6 @@
 
 [![Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)] [![Skills](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)] [![Skills](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)] 
 
-### Experiência em design com:
+### Outros:
 
-[![Design](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]
-
-### Contato:
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://portfolio3-d-topaz.vercel.app)
-
-
-
-
-
-
-
+[![Design](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)] [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://portfolio3-d-topaz.vercel.app)
