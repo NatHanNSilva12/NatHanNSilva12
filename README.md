@@ -1,5 +1,4 @@
 ### ° Olá! Eu sou o Nathan Silva 
-### ° Pronomes: Ele/Dele 🤵
 ### ° Formado em Desenvolvimento de sistemas 🖥️
 ### ° Cursando Bacharelado em Engenharia de Software 👨‍💻
 ### ° Buscando aprender cada vez mais 📖
